@@ -1,5 +1,4 @@
-namespace Trinity
-{
+namespace Trinity {
     
 }
 
