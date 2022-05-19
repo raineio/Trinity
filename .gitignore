@@ -7,3 +7,4 @@ Backup
 .idea
 .vs
 Trinity/Trinity.vcxproj.filters
+/target
